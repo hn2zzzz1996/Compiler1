@@ -1,0 +1,11 @@
+
+0x661144:
+
+local.5,6 = (len*len*0xD) + 0x2FEFD7/3;
+for(int i = 0; i < len; i++){
+    int x = a[i];
+    x = x*x;
+    x = x*(0xC-i);
+    x += local.5,6;
+    local.5,6 = x;
+}
