@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\AndroidReverse\lianliankan.Android1\app\build\intermediates\exploded-aar\lianliankan.Android1\mylibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="5ada91e9b6ee84e2167d5f41558875961dc27fc5">
+        <dex dex="G:\AndroidReverse\lianliankan.Android1\app\build\intermediates\pre-dexed\debug\lianliankan.Android1-mylibrary-unspecified_c3820f4d1103c397799f71c615cc134eec59f7f1.jar" />
+    </item>
+
+</items>

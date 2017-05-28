@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\item1.ogg",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\src\\main\\res\\raw\\item1.ogg"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\disappear1.ogg",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\src\\main\\res\\raw\\disappear1.ogg"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\choose.ogg",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\src\\main\\res\\raw\\choose.ogg"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\back2new.ogg",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\src\\main\\res\\raw\\back2new.ogg"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\item2.ogg",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\src\\main\\res\\raw\\item2.ogg"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bg.ogg",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\src\\main\\res\\raw\\bg.ogg"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lose.ogg",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\src\\main\\res\\raw\\lose.ogg"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\win.ogg",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\src\\main\\res\\raw\\win.ogg"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\alarm.ogg",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\src\\main\\res\\raw\\alarm.ogg"
+    }
+]

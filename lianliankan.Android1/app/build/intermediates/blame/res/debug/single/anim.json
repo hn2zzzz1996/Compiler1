@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_anim_out.xml",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\src\\main\\res\\anim\\scale_anim_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle.xml",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\src\\main\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_in.xml",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\src\\main\\res\\anim\\trans_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_anim.xml",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\src\\main\\res\\anim\\scale_anim.xml"
+    },
+    {
+        "merged": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "G:\\AndroidReverse\\lianliankan.Android1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_fade_out.xml"
+    }
+]
